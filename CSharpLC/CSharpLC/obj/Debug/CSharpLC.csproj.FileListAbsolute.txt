@@ -1,0 +1,7 @@
+C:\Users\badac\repos\LeetCodeSolutions\CSharpLC\CSharpLC\bin\Debug\CSharpLC.exe
+C:\Users\badac\repos\LeetCodeSolutions\CSharpLC\CSharpLC\bin\Debug\CSharpLC.pdb
+C:\Users\badac\repos\LeetCodeSolutions\CSharpLC\CSharpLC\obj\Debug\CSharpLC.csproj.AssemblyReference.cache
+C:\Users\badac\repos\LeetCodeSolutions\CSharpLC\CSharpLC\obj\Debug\CSharpLC.csproj.SuggestedBindingRedirects.cache
+C:\Users\badac\repos\LeetCodeSolutions\CSharpLC\CSharpLC\obj\Debug\CSharpLC.csproj.CoreCompileInputs.cache
+C:\Users\badac\repos\LeetCodeSolutions\CSharpLC\CSharpLC\obj\Debug\CSharpLC.exe
+C:\Users\badac\repos\LeetCodeSolutions\CSharpLC\CSharpLC\obj\Debug\CSharpLC.pdb
